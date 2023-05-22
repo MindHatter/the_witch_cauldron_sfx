@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{254372de-3226-4f93-9e31-d06bfda4cc10}">
+		<property name="assetPath">
+			<value>Chars/visitors_coming/sfx_visitors_men_angry.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.9543541666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{da1816d7-7885-4f43-96d7-a47a9541cd61}</destination>
+		</relationship>
+	</object>
+</objects>
