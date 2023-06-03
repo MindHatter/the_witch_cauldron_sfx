@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{08f572a2-fc77-4d0b-92a4-7ff1af0481d6}">
 		<property name="name">
-			<value>menu_theme</value>
+			<value>bgm</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{9f5026a6-ea43-4c41-bf3b-e4e1f887594e}</destination>
+			<destination>{6ce4a8e8-a57e-4580-a054-da59f2c3f5d2}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{f948876c-7ad9-4bb5-81f1-5bb467c3acc9}</destination>
