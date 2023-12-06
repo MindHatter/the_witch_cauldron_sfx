@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3cde1992-2622-4721-bba2-33a94a3099e3}">
+		<property name="assetPath">
+			<value>Game/Potions/memory_potion.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.7710430839002269</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{da1816d7-7885-4f43-96d7-a47a9541cd61}</destination>
+		</relationship>
+	</object>
+</objects>
