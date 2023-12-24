@@ -5,13 +5,13 @@
 			<value>UX/menu_submit.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>1</value>
 		</property>
 		<property name="length">
-			<value>1.0621458333333333</value>
+			<value>1.5398185941043083</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{da1816d7-7885-4f43-96d7-a47a9541cd61}</destination>
