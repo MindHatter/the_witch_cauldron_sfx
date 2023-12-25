@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{3cac629a-0303-4571-84af-a7b49e71b1e4}">
+		<property name="name">
+			<value>DayNight</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c92c5c88-ce09-40d5-a4da-429d3bc8f598}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{387f9d5d-2ccb-4046-ad34-62b4f68c1906}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{387f9d5d-2ccb-4046-ad34-62b4f68c1906}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeedDescending">
+			<value>1.5</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
